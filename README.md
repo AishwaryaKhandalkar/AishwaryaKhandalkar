@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Aishwarya Khandalkar</h1>
-<h4 align="">A passionate frontend developer from Redmond WA, USA working in web development and frontend technologies. I am a result-driven and versatile frontend engineer with 4+ years of experience designing, developing and managing complex websites, web applications. I specialize in coding complex user interface across multiple viewports and responsive designing.</h3>
+<p align="">A passionate frontend developer from Seattle WA, USA working in web development and frontend technologies. I am a result-driven and versatile frontend engineer with 4+ years of experience designing, developing and managing complex websites, web applications. I specialize in coding complex user interface across multiple viewports and responsive designing.</p>
 
 📫 How to reach me **ash.khandalkar@gmail.com**
 
